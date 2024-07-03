@@ -1,11 +1,11 @@
-# 0xlordachita-Airdrop-1
+# 0xlordachita Airdrop 1
 
 ## Details
 https://mirror.xyz/lordachita.eth/DjUxIU8aScnjSqbsCo5c2CvSSrbxlRyp1twUX9xjzi0
 
 ## Eligible Criteria
-Each address that **minted** lordachita.eth's articles before 27/06/2024 18:00 UTC+7 and airdrop amounts will be calculated **per address** as follows::  </br>
-$\text{Total OP} = N\sqrt N + \sum_n ExtraFirstMinter_n + \sum_n ExtraPostSnapshotMinter_n)$ </br>
+Each address that **minted** lordachita.eth's articles before 27/06/2024 18:00 UTC+7 and airdrop amounts will be calculated **per address** as follows:  </br>
+$\text{Total OP} = N\sqrt N + \sum_n ExtraFirstMinter_n + \sum_n ExtraPostSnapshotMinter_n$ </br>
 where </br>
 N = total article minted </br>
 
@@ -32,17 +32,17 @@ This is to thank the followers who consistently mint my articles without encoura
 4. https://mirror.xyz/lordachita.eth/rAY66MAZ1py60C9xM3L-7I_9MyYvAJ0W1AHxq061W6s </br>
    **Contract Address**: https://explorer.zora.energy/address/0xe9019f5d0e1c49c590d2bf45cb84545b49142320
 5. https://mirror.xyz/lordachita.eth/Mbuyslk-X-vTMoIIyCXFXh2Sk29T_6L0KGI7q0dkXpw </br>
-   **Contract Address**: 
+   **Contract Address**: https://explorer.zora.energy/address/0x60457f5e2c1fcbd67dc12c9bc49c0f96072c028a
 6. https://mirror.xyz/lordachita.eth/AxzQWvUEyrlIqnBw4G2061Jk8GsQ__SllsFEJjR1s40 </br>
-   **Contract Address**: 
+   **Contract Address**: https://explorer.zora.energy/address/0x7924904e92cb022979304f404c7b39f8d6e0a724
 7. https://mirror.xyz/lordachita.eth/1tKounE5WpbRDmihVA6QimU0-SXTSm3Q3951m2zPt0M </br>
-   **Contract Address**: 
+   **Contract Address**: https://explorer.zora.energy/address/0xe0ee5d3350d6efa8e1aafa0a41a169a434afee53
 8. https://mirror.xyz/lordachita.eth/zun4DdwcGXHGtb3M67OUywoxRrKK7K1sKOC8KZCYCRU </br>
-    **Contract Address**:
+    **Contract Address**: https://explorer.zora.energy/address/0x42187db553509591c6f4219adeabeec79792fb5f
 9. https://mirror.xyz/lordachita.eth/FXRytKOfQMLMK4qq6sanfwEKBoT4-HMWVJT7G2yuBu4 </br>
-    **Contract Address**:
+    **Contract Address**: https://explorer.zora.energy/address/0x5e4667ff7dcb95daf3cd10900ae8d3997b3bc53e
 
-## Fund 
+## Source of Funds 
 https://optimistic.etherscan.io/address/0x0a04d9800EdF082E7F654B9b4B5947c4bFb21264
 
-## Distribution Tx
+## Distributed Tx
