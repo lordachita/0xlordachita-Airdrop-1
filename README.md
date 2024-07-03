@@ -20,6 +20,10 @@ $$ ExtraPostSnapshotMinter_n = \begin{cases}
 0 \text{ otherwise}
 \end{cases} $$
 
+## Eligible Address
+**Minted Activities**: https://github.com/lordachita/0xlordachita-Airdrop-1/blob/main/0xlordachita%20Airdrop%20%231%20Calculation%20-%20Activities.csv
+**Final Amounts**: https://github.com/lordachita/0xlordachita-Airdrop-1/blob/main/0xlordachita%20Airdrop%20%231%20Calculation%20-%20Final%20Calculation.csv
+
 ## Why $\sqrt N$ is applied only for the article NFT minted numbers?
 This is to thank the followers who consistently mint my articles without encouraging sheer luck.
 
@@ -47,3 +51,4 @@ This is to thank the followers who consistently mint my articles without encoura
 https://optimistic.etherscan.io/address/0x0a04d9800EdF082E7F654B9b4B5947c4bFb21264
 
 ## Distributed Tx
+Soon
