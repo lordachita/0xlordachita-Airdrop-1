@@ -45,7 +45,7 @@ $$ ExtraPostSnapshotMinter_n = \begin{cases}
 **Final Amounts**: https://github.com/lordachita/0xlordachita-Airdrop-1/blob/main/0xlordachita%20Airdrop%20%231%20Calculation%20-%20Final%20Calculation.csv 
 
 ## Why $\sqrt N$ is applied only for the article NFT minted numbers?
-This is to thank the followers who consistently mint my articles without encouraging sheer luck.
+This is to thank the followers who consistently mint my articles without heavily encouraging sheer luck.
 
 ## Distribution Tx
 https://optimistic.etherscan.io/tx/0x4f973bb96b3fe41bf4007b01b6067fa371d99a5b976e6bc314561f13d9645fa6
