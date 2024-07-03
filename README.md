@@ -9,6 +9,7 @@ $\text{Total OP} = N\sqrt N + \sum_n ExtraFirstMinter_n + \sum_n ExtraPostSnapsh
 where </br>
 N = total article minted </br>
 
+
 $$ ExtraFirstMinter_n = \begin{cases}
 0.5 \text{ if you are the first minter but your minted article has less than 5 minters at the snapshot date} \\
 0 \text{ otherwise}
