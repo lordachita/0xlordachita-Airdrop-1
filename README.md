@@ -6,13 +6,15 @@ https://mirror.xyz/lordachita.eth/DjUxIU8aScnjSqbsCo5c2CvSSrbxlRyp1twUX9xjzi0
 ## Eligible Criteria
 Each address that **minted** lordachita.eth's articles before 27/06/2024 18:00 UTC+7
 and airdrop amounts will be calculated **address-wise**:  </br>
-$\text{Total \$}OP = N\sqrt N + \sum_n ExtraFirstMinter_n + \sum_n Extra PostSnapshotMinter_n)$
+$\text{Total \$}OP = N\sqrt N + \sum_n ExtraFirstMinter_n + \sum_n ExtraPostSnapshotMinter_n)$
 where </br>
 N = total article minted </br>
+
 $ExtraFirstMinter_n = \begin{cases}
 0.5 \text{if you are the first minter but have less than 5 minters in your article}\\
 0 \test{otherwise}
 \end{cases}$
+
 $ExtraPostSnapshotMinter_n = \begin{cases}
 0.5 \text{if minted later than 02/05/2024 but within the snapshot}\\
 0 \test{otherwise}
