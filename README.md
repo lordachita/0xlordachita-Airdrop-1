@@ -16,7 +16,7 @@ $$ ExtraFirstMinter_n = \begin{cases}
 \end{cases} $$
 
 $$ ExtraPostSnapshotMinter_n = \begin{cases}
-0.5 \text{ if you minted later than 02/05/2024 but still within the snapshot date} \\
+0.5 \text{ if you minted later than 2 May 2024 but still within the snapshot date} \\
 0 \text{ otherwise}
 \end{cases} $$
 
