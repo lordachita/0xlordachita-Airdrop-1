@@ -51,4 +51,4 @@ This is to thank the followers who consistently mint my articles without encoura
 https://optimistic.etherscan.io/address/0x0a04d9800EdF082E7F654B9b4B5947c4bFb21264
 
 ## Distributed Tx
-Soon
+https://optimistic.etherscan.io/tx/0x4f973bb96b3fe41bf4007b01b6067fa371d99a5b976e6bc314561f13d9645fa6
