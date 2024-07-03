@@ -9,7 +9,7 @@ and airdrop amounts will be calculated address-wise:
 $\mathbb{R}$
 
 ## Eligible Article NFT and Addresses
-1. https://mirror.xyz/lordachita.eth/kRUnvPmF5a89cl5wHAOmHroYG1aMRrX9U-Tk1CxpECw
+1. https://mirror.xyz/lordachita.eth/kRUnvPmF5a89cl5wHAOmHroYG1aMRrX9U-Tk1CxpECw </br>
    **Contract Address**: https://optimistic.etherscan.io/address/0x750d555eb47f03895e19394f119dc6b30da71a7d
 2. https://mirror.xyz/lordachita.eth/00Ja23oqUMN3pZU25Oj7gdwllo21ItStSQyi1xs5mG8
    **Contract Address**: https://explorer.zora.energy/address/0xa38d940ee59ded2406260cf8bce760795abdec5a
