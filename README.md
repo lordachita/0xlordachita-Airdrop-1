@@ -20,14 +20,7 @@ $$ ExtraPostSnapshotMinter_n = \begin{cases}
 0 \text{ otherwise}
 \end{cases} $$
 
-## Eligible Address
-**Minted Activities**: https://github.com/lordachita/0xlordachita-Airdrop-1/blob/main/0xlordachita%20Airdrop%20%231%20Calculation%20-%20Activities.csv </br>
-**Final Amounts**: https://github.com/lordachita/0xlordachita-Airdrop-1/blob/main/0xlordachita%20Airdrop%20%231%20Calculation%20-%20Final%20Calculation.csv 
-
-## Why $\sqrt N$ is applied only for the article NFT minted numbers?
-This is to thank the followers who consistently mint my articles without encouraging sheer luck.
-
-## Eligible Article NFT and Addresses
+## Eligible Article NFT 
 1. https://mirror.xyz/lordachita.eth/kRUnvPmF5a89cl5wHAOmHroYG1aMRrX9U-Tk1CxpECw </br>
    **Contract Address**: https://optimistic.etherscan.io/address/0x750d555eb47f03895e19394f119dc6b30da71a7d
 2. https://mirror.xyz/lordachita.eth/00Ja23oqUMN3pZU25Oj7gdwllo21ItStSQyi1xs5mG8 </br> 
@@ -47,8 +40,12 @@ This is to thank the followers who consistently mint my articles without encoura
 9. https://mirror.xyz/lordachita.eth/FXRytKOfQMLMK4qq6sanfwEKBoT4-HMWVJT7G2yuBu4 </br>
     **Contract Address**: https://explorer.zora.energy/address/0x5e4667ff7dcb95daf3cd10900ae8d3997b3bc53e
 
-## Source of Funds 
-https://optimistic.etherscan.io/address/0x0a04d9800EdF082E7F654B9b4B5947c4bFb21264
+## Eligible Address
+**Minted Activities**: https://github.com/lordachita/0xlordachita-Airdrop-1/blob/main/0xlordachita%20Airdrop%20%231%20Calculation%20-%20Activities.csv </br>
+**Final Amounts**: https://github.com/lordachita/0xlordachita-Airdrop-1/blob/main/0xlordachita%20Airdrop%20%231%20Calculation%20-%20Final%20Calculation.csv 
 
-## Distributed Tx
+## Why $\sqrt N$ is applied only for the article NFT minted numbers?
+This is to thank the followers who consistently mint my articles without encouraging sheer luck.
+
+## Distribution Tx
 https://optimistic.etherscan.io/tx/0x4f973bb96b3fe41bf4007b01b6067fa371d99a5b976e6bc314561f13d9645fa6
